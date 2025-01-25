@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class ArrayProj {
     public static void main(String[] args) {
 
         int[] numbers = new int[10]; // 0,1,2,3,4
